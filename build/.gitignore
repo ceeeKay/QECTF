@@ -1,0 +1,5 @@
+progs.dat
+progs.lno
+*.pak
+# This is just a copy for packaging, don't edit it
+mapdb.json
